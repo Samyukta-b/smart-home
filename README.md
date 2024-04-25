@@ -4,7 +4,7 @@ In this project we have modelled a digital twin of a home. Dynamic elements like
 For modelling the exteriors of the house, we have used a package called ProBuilder, which was used to construct the walls and the flooring of the house.
 For designing the interiors of the house, an "Apartment Kit" asset package was imported. Using this, we have included multiple assets which suits each room of the house.
 
-For the living room, we have included assets like a sofa, coffee table, cabinets, TV, light, paintings, door mat, wooden flooring and wallpaper. The light switches on and off when clicked on its toggle switch. A lightOnOff.cs script has been developed to facilitate the same. 
+For the living room, we have included assets like a sofa, coffee table, cabinets, TV, light, paintings, door mat, wooden flooring and wallpaper. The light switches on and off when clicked on its toggle switch. A `lightOnOff.cs` script has been developed to facilitate the same. 
 
 Coming to the bedroom, (please add)
 
@@ -12,4 +12,4 @@ For the kitchen cum dining room, (please add)
 
 Finally, we have an outdoor garden, (please add)
 
-To view the project, a first-person player has been included, which is controlled by a script called the PlayerController.cs. This allows the player to move left, right, forward and backward, and it also has provision to rotate its head. Basic assets like directional light and main camera are also included within the project. Totally, this project consists of (?) assets.
+To view the project, a first-person player has been included, which is controlled by a script called the `PlayerController.cs`. This allows the player to move left, right, forward and backward, and it also has provision to rotate its head. Basic assets like directional light and main camera are also included within the project. Totally, this project consists of (?) assets.
