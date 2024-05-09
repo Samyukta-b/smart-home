@@ -6,10 +6,10 @@ For designing the interiors of the house, an "Apartment Kit" asset package was i
 
 For the living room, we have included assets like a sofa, coffee table, cabinets, TV, light, paintings, door mat, wooden flooring and wallpaper. The light switches on and off when clicked on its toggle switch. A `lightOnOff.cs` script has been developed to facilitate the same. 
 
-Coming to the bedroom, (please add)
+Coming to the bedroom, assets like bed, table, wardrobe and lighting have been included. The lights turn on and off when clicked on the letter "E", and a script to automatically open the door is also present.
 
-For the kitchen cum dining room, (please add)
+For the kitchen cum dining room, basic kitchen appliances, like refrigerator, microwave, gas stove is modelled, along with dining table, chairs, and cupboards whose doors automatically open. A script has been included for the same.
 
-Finally, we have an outdoor garden, (please add)
+Finally, we have an outdoor garden, which consists of a seating area, along with multiple plants to provide a scenic view for the house.
 
 To view the project, a first-person player has been included, which is controlled by a script called the `PlayerController.cs`. This allows the player to move left, right, forward and backward, and it also has provision to rotate its head. Basic assets like directional light and main camera are also included within the project. Totally, this project consists of (?) assets.
